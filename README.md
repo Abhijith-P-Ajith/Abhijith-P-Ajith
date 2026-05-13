@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://i.imgur.com/zZ2X7QF.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/Abhijith-P-Ajith/Abhijith-P-Ajith/main/banner.png"/>
 
 </div>
 
