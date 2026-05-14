@@ -65,7 +65,7 @@ Machine Learning, and building real-world projects.
 # 🌐 Connect With Me
 
 **LinkedIn:**  
-linkedin.com/in/abhijithpajith
+https://www.linkedin.com/in/abhijithpajith
 
 **Email:**  
 abhijithpajith06@gmail.com
